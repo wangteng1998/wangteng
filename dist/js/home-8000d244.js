@@ -80,8 +80,8 @@ webpackJsonp([1,4],Array(257).concat([
 	            src: null,
 	            formData: {
 	                gender: '男',
-	                name: '拾文',
-	                location: '腾冲市第一中学'
+	                name: '王腾',
+	                location: '吉安市第一中学'
 	            }
 	        };
 	    }
@@ -188,7 +188,7 @@ webpackJsonp([1,4],Array(257).concat([
 	                            _react2['default'].createElement(
 	                                CellBody,
 	                                null,
-	                                _react2['default'].createElement(Input, { ref: 'location', onChange: this.handleChange.bind(this), name: 'location', type: 'text', placeholder: '比如：腾冲市第一中学' })
+	                                _react2['default'].createElement(Input, { ref: 'location', onChange: this.handleChange.bind(this), name: 'location', type: 'text', placeholder: '比如：吉安市第一中学' })
 	                            )
 	                        )
 	                    ),
